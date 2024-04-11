@@ -38,7 +38,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="/root/Development/phase-4/python-p4-building-get-api-lab/myenv"
+VIRTUAL_ENV="/root/Development/phase-4/python-p4-building-get-api-lab/server/myenv"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
